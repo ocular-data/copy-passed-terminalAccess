@@ -2,12 +2,23 @@
 #### A remote clipboard application
 
 ---
+[site](https://copy-passed.web.app)
+---
 
 ## Features 
 - [x] bash console access
 - [ ] ~~windows batch console access~~
 - [ ] windows powershell console access
 - [x] multiple registered computers/consoles
+
+---
+
+## linked projects
+[Android app](https://github.com/ocular-data/copy-passed-android)
+
+[Firebase hosting website](https://github.com/ocular-data/copy-passed-terminalAccess)
+
+[GO clipboard](https://github.com/ocular-data/copy-passed-go)
 
 ---
 
